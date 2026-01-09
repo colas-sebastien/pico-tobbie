@@ -5,6 +5,22 @@ Control Tobbie robot with a bluetooth gamepad thanks to Raspberry Pico 2 W
 Code should propably work with Pico W
 
 # Hardware
+
+## Bill of materials
+- 1x Velleman Tobbie Robot KSR18
+- 1x Raspberry Pico 2 W
+- 1x Motor SHIM for Pico
+- 1x Motor Connector Shim Cable
+- 2x Break-away 0.1" 10-pin strip male header
+- 1x switch B1501
+- 2x M2 screw 10mm
+- 2x M2 nuts
+- 2x 100 Ohms Resistor
+- 2x LED (color of you choice)
+- 1x switch
+- 1x PCB BCL378
+
+
 ## Prepare Tobbie
 Here is how to update the hardware to control Tobbie with a Raspberry Pico 2
 - Remove the head
